@@ -6,6 +6,12 @@ SunlightChain 宣言
 
 经济学的主要创立者、伟大的亚当斯密曾经说过：「每一个人为改变他的状况而自然做出的努力，当其具有施展的自由和安全时，就是一个十分强有力的原则，不需要借助其他，这种个人的努力，就能给社会带来财富和繁荣」。
 
+这是工业革命时期亚当斯密代表小企业向拥有特许经营权的垄断企业发出的呐喊，没有这样的思想和行动来支持无数的小企业，工业革命的发展也难以到达现在的程度。
+
+历史总在螺旋中前进，人类又到了要像火山一样释放集体潜能的时候了！ 区块链技术通过促进“个体施展的自由和安全”极大程度的实践了这一伟大理念，让经济不再只是少数人的游戏。
+
+技术不应高高在上，而须落地生根。数字货币等区块链产品将成为引领信息社会的发动机。一个新的时代即将到来！SunlightChain 团队凭借多年的知识积累和研发功力来迎接这一浪潮，充满信心，也如履薄冰！我们坚信未来！
+
 The SunlightChain Manifesto 
  
 The application of blockchain technology will subvert the economic model that is over-dependent on the center, and its inherent characteristics of openness, sharing, and decentralization will greatly improve efficiency and promote a huge jump in social productivity! This is unimaginable in a society dominated by the traditional economy, but it will become a reality in an information society dominated by the knowledge economy and intangible assets. 
