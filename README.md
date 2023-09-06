@@ -2,8 +2,15 @@ SunlightChain Windows 全节点 使用步骤
 
 1. 下载 sunlightcoin_v2.0.2.zip ，解压缩 到任意目录；
 2. 鼠标右键点击 sunlightcoin_v2.0.2.exe 创建快捷方式；
-3. 添加挖矿参数，鼠标右键点击快捷方式，在属性【目标】末尾处添加参数：-gen，注意 -gen前有空格；
+3. 添加挖矿参数，鼠标右键点击快捷方式，在属性【目标】末尾处添加参数：-gen，注意 -gen前有空格，可以参考《闪来币SunlightCoin使用说明书_V1.5》；
 4. 双击快捷方式运行。
+
+SunlightChain Procedure for using Windows full node 
+ 
+1. Download sunlightcoin_v2.0.2.zip and unzip it to any directory. 
+2. Right-click sunlightcoin_v2.0.2.exe to create a shortcut; 
+3. Add mining parameters, right-click the shortcut, add parameter: -gen at the end of the attribute [target], note that there is a space before -gen, you can refer to "SunlightCoin Instruction Manual _V1.5" 闪来币SunlightCoin使用说明书_V1.5; 
+4. Double-click the shortcut.
 
 SunlightChain 宣言
 
