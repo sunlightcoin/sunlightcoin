@@ -12,6 +12,36 @@ SunlightChain Procedure for using Windows full node
 3. Add mining parameters, right-click the shortcut, add parameter: -gen at the end of the attribute [target], note that there is a space before -gen, you can refer to "SunlightCoin Instruction Manual _V1.5" 闪来币SunlightCoin使用说明书_V1.5; 
 4. Double-click the shortcut.
 
+最新通知：
+（1）闪来公链 v2.0.2（即原STC，更名为SLC）全节点 已正式发布！无需科学🪜！BTC协议的SLC（BTC-SLC），基于POW挖矿，提供底价，即电费。BSC协议SLC，基于POS协议公链的智能合约，用于上层应用系统建设和市场兑换交换，提供市场价格调节，提供市场活力，也就是提供泡沫🫧那部分。就像一杯啤酒🍻，只有酒没有泡沫🫧不行，全是泡沫🫧没有酒，更不行。
+（2）起雾钱包FoggyWallet v2.0.4 已正式发布！无需科学🪜！默认添加闪来积分BSC-SLC，可通过【Dapp应用】直接访问BSC-SLC小黄人NFT。
+（3）可以使用已挖到的BTC-SLC（使用全节点），随时在群内等量兑换（1:1）基于BSC发布的SLC，然后可以在各类SWAP网站兑换USDT，或其他BSC-Token。注意：目前尚未发布ETH协议版本的SLC。支持 BTC-SLC 到 BSC-SLC 等量兑换，反之目前不支持。
+
+下载链接: 
+百度网盘: https://pan.baidu.com/s/1fhoxJoFEbQiaMj1fxDWBqQ?pwd=9mhr 提取码: 9mhr 
+GitHub：https://github.com/sunlightcoin/sunlightcoin
+
+BSC-SLC 合约地址：
+0xBb8ca1Fc8BF1CCC0Fe783E6224F3Fbad503c3b1c
+小黄人NFT合约地址：
+0x38F881Be37172920BD24F5636F9CD77236b1403d
+添加USDT-SLC流动性获得CakeLP，CakeLP合约地址：0x0E770Aa2BbF15cd93343d3B8f72De1627fb76E21
+
+Latest announcement:
+(1) The full node of the SunlightChain v2.0.2 (formerly STC, renamed SLC) has been officially released! No science 🪜 is needed! The BTC-SLC based on the BTC protocol is based on POW mining and provides a low price, namely electricity cost. The SLC based on the POS protocol public chain's smart contracts for the BSC (Binance Smart Chain) protocol is used for the construction of upper-layer application systems and market exchange, providing market price adjustment and market vitality, which is like providing the froth 🫧 in a beer 🍻. Without froth 🫧, only beer is not enough, and with all froth 🫧 and no beer, it's even worse.
+(2) The FoggyWallet v2.0.4 has been officially released! No science 🪜 is needed! The BSC-SLC points of SunlightChain are added by default, and the NFT of BSC-SLC can be accessed directly through [Dapp application].
+(3) The BTC-SLC that has been mined (using the full node) can be exchanged for an equal amount (1:1) of SLC based on BSC at any time in the group, and then can be exchanged for USDT or other BSC tokens on various SWAP websites. Note: there is currently no ETH protocol version of SLC. Support for the exchange of BTC-SLC for BSC-SLC in equal amounts is available, but the reverse is currently not supported.
+
+Download link:
+Baidu Netdisk: https://pan.baidu.com/s/1fhoxJoFEbQiaMj1fxDWBqQ?pwd=9mhr - Extraction code: 9mhr
+GitHub: https://github.com/sunlightcoin/sunlightcoin
+
+BSC-SLC contract address:
+0xBb8ca1Fc8BF1CCC0Fe783E6224F3Fbad503c3b1c
+Small Yellow People NFT contract address:
+0x38F881Be37172920BD24F5636F9CD77236b1403d
+Adding USDT-SLC liquidity to obtain CakeLP, the contract address of CakeLP: 0x0E770Aa2BbF15cd93343d3B8f72De1627fb76E21
+
 SunlightChain 宣言
 
 区块链技术的应用必将颠覆现在过度依赖于中心的经济模式，它与生俱来的开放、共享、去中心化等特点极大地提高效率，促进社会生产力的巨幅跃升！这在以传统经济为主导的社会里难以想象，而在以知识经济和无形资产为主导的信息社会则将成为现实。
